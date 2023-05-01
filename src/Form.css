@@ -1,0 +1,9 @@
+.form-container{
+    display: flex;
+    margin-left: 40%;
+    align-items: center;
+    width: 300px;
+    height: 400px;
+    border: 2px solid blue;
+
+}
